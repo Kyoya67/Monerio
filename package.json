@@ -1,0 +1,13 @@
+{
+  "name": "monerio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Monerio - Automated asset management on-chain",
+  "scripts": {
+    "build": "pnpm -r build",
+    "test": "pnpm -r test"
+  },
+  "keywords": ["defi", "vault", "chainlink"],
+  "author": "Kyoya",
+  "license": "MIT"
+}

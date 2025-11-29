@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Foundry
+packages/contracts/out/
+packages/contracts/cache/
+packages/contracts/broadcast/
+packages/contracts/lib/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Coverage
+lcov.info
+coverage/
+
+# Build artifacts
+dist/
+build/
