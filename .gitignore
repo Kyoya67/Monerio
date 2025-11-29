@@ -2,10 +2,10 @@
 node_modules/
 
 # Foundry
-packages/contracts/out/
-packages/contracts/cache/
-packages/contracts/broadcast/
-packages/contracts/lib/
+contracts/out/
+contracts/cache/
+contracts/broadcast/
+contracts/lib/
 
 # Environment variables
 .env
